@@ -1,0 +1,25 @@
+﻿body{
+    background-color: yellow;
+    /*text-align: center;*/
+}
+
+p {
+    color: green;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.heading-class{
+    text-align: center;
+}
+
+#cool-text{
+    color: blue;
+}
+
+#list{
+    color: red;
+}
+
